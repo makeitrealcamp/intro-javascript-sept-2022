@@ -22,6 +22,7 @@ Todas las herramientas están en Internet así que no necesitarás instalar nada
 - [Guías de Make It Real](https://guias.makeitreal.camp/javascript-i) - Recurso de apoyo.
 - [Foro de Make It Real](https://foro.makeitreal.camp/c/intro-javascript-sept-2022/) - En este foro podrás hacer tus preguntas y compartir tus soluciones a los ejercicios.
 - [Parejas](https://go.makeitreal.camp/) - El generador de parejas de Make It Real. Se compartirá el link al finalizar cada sesión.
+- [Discord](https://discord.gg/FbyGN9u6) - El canal donde podrás postear preguntas y ayudar a tus compañeros con respecto a los ejercicios del curso
 
 ## 👩🏻‍💻👨🏼‍💻 Trabajo en parejas (pair programming)
 
