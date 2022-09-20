@@ -36,6 +36,7 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 ## 🏋🏼‍♀️ Ejercicios
 
 - [Día 1](./dia-1.md)
+- [Día 2](./dia-2.md)
 
 ## 🎥 Clases Anteriores
 - [Clase 1](https://youtu.be/pS5kuR54X9g)
