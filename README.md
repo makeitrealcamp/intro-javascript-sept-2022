@@ -20,7 +20,7 @@ Todas las herramientas están en Internet así que no necesitarás instalar nada
 
 - [Repl.it](https://repl.it/) - Un editor de texto en línea donde vas a realizar los ejercicios. [Ver Instrucciones](instrucciones-repl-editor-online.md)
 - [Guías de Make It Real](https://guias.makeitreal.camp/javascript-i) - Recurso de apoyo.
-- [Foro de Make It Real](https://foro.makeitreal.camp/c/intro-javascript-innpulsa-nov-2021/11) - En este foro podrás hacer tus preguntas y compartir tus soluciones a los ejercicios.
+- [Foro de Make It Real](https://foro.makeitreal.camp/c/intro-javascript-sept-2022/) - En este foro podrás hacer tus preguntas y compartir tus soluciones a los ejercicios.
 - [Parejas](https://go.makeitreal.camp/) - El generador de parejas de Make It Real. Se compartirá el link al finalizar cada sesión.
 
 ## 👩🏻‍💻👨🏼‍💻 Trabajo en parejas (pair programming)
