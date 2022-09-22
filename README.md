@@ -43,3 +43,4 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 ## 🎥 Clases Anteriores
 - [Clase 1](https://youtu.be/pS5kuR54X9g)
 - [Clase 2](https://youtu.be/FWAItHi66j4)
+- [Clase 3](https://youtu.be/CnR2pN9xL9k)
