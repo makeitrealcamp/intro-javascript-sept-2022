@@ -86,7 +86,7 @@ Escribe una función llamada `descifrar` que reciba un string y un objeto. Utili
 
 // código de prueba
 console.log(descifrar("h0l4", { 0: "o", 4: "a" })); // "hola"
-console.log(descifrar("pyrmizo", { y: "e", z: s })); // "permiso"
+console.log(descifrar("pyrmizo", { y: "e", z: "s" })); // "permiso"
 console.log(descifrar("igual", { h: "n" })); // "igual"
 ```
 
