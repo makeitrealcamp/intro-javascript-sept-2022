@@ -44,6 +44,7 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Día 6](./dia-6.md)
 - [Día 7](./dia-7.md)
 - [Día 8](./dia-8.md)
+- [Día 9](./dia-9.md)
 
 ## 🎥 Clases Anteriores
 - [Clase 1](https://youtu.be/pS5kuR54X9g)
@@ -54,3 +55,4 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Clase 6](https://youtu.be/aqdFewl5H10)
 - [Clase 7](https://youtu.be/AIaXvpJ2nKo)
 - [Clase 8](https://youtu.be/PwhyebIFXvQ)
+- [Clase 9](https://youtu.be/HbMPoLGZdwk)
